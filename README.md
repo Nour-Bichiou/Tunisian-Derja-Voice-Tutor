@@ -1,4 +1,4 @@
-# PFA2026 — Tunisian Derja Voice Tutor
+# Tunisian Derja Voice Tutor
 
 A real-time voice tutor for Tunisian primary school students (grades 4–6)
 that listens and speaks in **Tunisian Derja**, retrieves answers from the
